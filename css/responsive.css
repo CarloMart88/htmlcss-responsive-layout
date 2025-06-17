@@ -104,4 +104,13 @@
   }
 
 
+  footer {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  address {
+    text-align: left;
+  }
+
 }
