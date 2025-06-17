@@ -4,4 +4,10 @@
   #topbar {
     justify-self: start;
   }
+
+  main {
+
+    padding: 50px;
+
+  }
 }
