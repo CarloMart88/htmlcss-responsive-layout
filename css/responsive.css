@@ -47,6 +47,14 @@
     display: block;
   }
 
+
+  .presentation img {
+    display: inline;
+    float: left;
+    margin-right: 20px;
+  }
+
+
 }
 
 -
