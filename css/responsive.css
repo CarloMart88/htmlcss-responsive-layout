@@ -90,4 +90,18 @@
     width: auto;
   }
 
+  .social-networks .label {
+
+    display: block;
+  }
+
+  .social-networks .btn {
+    display: flex;
+  }
+
+  .social-networks .btn i {
+    margin-right: 2px;
+  }
+
+
 }
