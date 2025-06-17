@@ -10,4 +10,17 @@
     padding: 50px;
 
   }
+
+  .recipe-origin {
+
+    display: block;
+    margin: 0 8px;
+  }
+
+  .recipe-name {
+    display: flex;
+
+  }
 }
+
+-
