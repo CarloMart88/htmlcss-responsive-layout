@@ -35,7 +35,8 @@
 
   .social-networks .btn {
 
-    padding: 15px 50px;
+    width: 20%;
+    /* correzione*/
 
   }
 
