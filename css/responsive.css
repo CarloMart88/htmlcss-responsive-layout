@@ -72,11 +72,11 @@
   }
 
   .recipe-info {
-    width: 40%;
+    width: 30%;
   }
 
   .recipe-video {
-    width: 90%;
+    width: 70%;
     max-height: 420px;
     /* ecco la soluzione!!*/
   }
