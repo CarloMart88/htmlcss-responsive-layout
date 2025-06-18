@@ -36,6 +36,7 @@
   .social-networks .btn {
 
     width: 20%;
+    justify-content: center;
     /* correzione*/
 
   }
