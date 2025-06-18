@@ -77,6 +77,8 @@
 
   .recipe-video {
     width: 90%;
+    max-height: 420px;
+    /* ecco la soluzione!!*/
   }
 
 
